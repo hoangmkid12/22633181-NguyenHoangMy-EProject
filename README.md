@@ -1,4 +1,5 @@
 🛒 Hệ thống Thương mại Điện tử Microservices
+
 🧩 Giới thiệu
 
 Đây là dự án cá nhân của Nguyễn Hoàng Mỹ, mô phỏng một hệ thống thương mại điện tử cơ bản được xây dựng theo kiến trúc Microservices.
@@ -51,9 +52,6 @@ Giao tiếp với Product Service để lấy thông tin sản phẩm.
 Hỗ trợ RabbitMQ cho việc truyền thông điệp không đồng bộ (asynchronous messaging) giữa các dịch vụ.
 
 5. ⚙️ Thành phần bổ trợ
-MongoDB: Lưu trữ dữ liệu cho từng dịch vụ (Auth, Product, Order).
-
-RabbitMQ: Hàng đợi tin nhắn giúp các service giao tiếp không đồng bộ, đảm bảo hệ thống hoạt động mượt mà.
 
 MongoDB: Lưu trữ dữ liệu cho từng dịch vụ (Auth, Product, Order).
 
