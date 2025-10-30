@@ -2,7 +2,7 @@
 
 🧩 Giới thiệu
 
-Đây là dự án cá nhân của Nguyễn Hoàng Mỹ, mô phỏng một hệ thống thương mại điện tử cơ bản được xây dựng theo kiến trúc Microservices.
+Đây là dự án mô phỏng một hệ thống thương mại điện tử cơ bản được xây dựng theo kiến trúc Microservices.
 Mục tiêu của dự án là thể hiện cách thiết kế và triển khai một hệ thống gồm nhiều dịch vụ độc lập, có thể dễ dàng mở rộng, bảo trì và triển khai bằng Docker.
 
 Hệ thống bao gồm các dịch vụ riêng biệt để xử lý các nghiệp vụ chính như:
@@ -50,6 +50,15 @@ Xử lý các nghiệp vụ tạo đơn hàng, quản lý đơn hàng của ngư
 Giao tiếp với Product Service để lấy thông tin sản phẩm.
 
 Hỗ trợ RabbitMQ cho việc truyền thông điệp không đồng bộ (asynchronous messaging) giữa các dịch vụ.
+
+💻 Công nghệ sử dụng
+
+Backend:Node.js, Express.js
+Database: MongoDB
+Kiến trúc: Microservices, API Gateway
+Containerization: Docker & Docker Compose
+Authentication: JSON Web Token (JWT)
+Proxy: HTTP Proxy
 
 5. ⚙️ Thành phần bổ trợ
 
