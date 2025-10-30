@@ -65,3 +65,6 @@ Proxy: HTTP Proxy
 MongoDB: Lưu trữ dữ liệu cho từng dịch vụ (Auth, Product, Order).
 
 RabbitMQ: Hàng đợi tin nhắn giúp các service giao tiếp không đồng bộ, đảm bảo hệ thống hoạt động mượt mà.
+
+👨‍💻 Tác giả
+Nguyễn Hoàng Mỹ
