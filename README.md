@@ -54,10 +54,15 @@ Hỗ trợ RabbitMQ cho việc truyền thông điệp không đồng bộ (asyn
 💻 Công nghệ sử dụng
 
 Backend:Node.js, Express.js
+
 Database: MongoDB
+
 Kiến trúc: Microservices, API Gateway
+
 Containerization: Docker & Docker Compose
+
 Authentication: JSON Web Token (JWT)
+
 Proxy: HTTP Proxy
 
 5. ⚙️ Thành phần bổ trợ
